@@ -1,2 +1,3 @@
-# simple-data-visualizer-85i6
-A data visualization tool for modern development workflows
+# Simple Data Visualizer 85I6
+
+A data visualization tool for modern development workflows.
